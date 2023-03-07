@@ -16,6 +16,6 @@
 
     <!-- Web page content -->
     <h1><?php echo 'There is something special about this web page...'; ?></h1>
-		<?php echo '<p>This is my first web page using PHP! I enjoyed creating this web page using an entirely new langauge, but one that I could use my knowledge of HTML to improve.</p>'; ?>
+		<?php echo '<p>This is my first web page using PHP! I enjoyed creating this web page using an entirely new language, but one that I could use my knowledge of HTML to improve.</p>'; ?>
 	</body>
 </html>
